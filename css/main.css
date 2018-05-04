@@ -1,0 +1,14 @@
+button{
+    cursor: pointer; 
+}
+
+html {
+  overflow-y: scroll;
+}
+
+
+#fileToUpload {
+  color: var(--button-color);
+  background-color: var(--button-background-color);
+  border-radius: var(--border-radius);
+}
